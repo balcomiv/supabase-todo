@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+# Links for App
+
+## Blog/Tutorial Link
+
+[Build a CRUD with Angular and Supabase](https://javascript.plainenglish.io/a-crud-with-angular-and-supabase-c205e393c823)
